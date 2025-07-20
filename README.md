@@ -1,2 +1,2 @@
 # optimization-basics
-Some basic optimization algorithms
+Some basic optimization algorithms visualized
