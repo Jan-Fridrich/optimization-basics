@@ -8,4 +8,4 @@ The function can by changed as the gradient is computed numerically.
 The color map file is a altered version of MATLAB 'turbo' colormap with more pronounced extremes.
 
 ## Fibonacci comparation  
-<video src=".mp4" width="320" height="240" controls></video>
+![](main/Fibonacci_comparation_video.mp4)
